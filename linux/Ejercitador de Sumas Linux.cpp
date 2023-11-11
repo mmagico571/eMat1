@@ -22,7 +22,7 @@ int main()
 	//inicia el ciclo 
 	do{
 	cout<<"################## EJERCITADOR DE SUMAS ##################"<<endl;
-	sleep(1);
+	sleep(2);
 	system("clear");
 	//inicia el ciclo de sumas
 	for(int j=1;j<=repeticiones;j++)
@@ -51,7 +51,7 @@ int main()
 		//muestra el resultado de la suma
 		sleep(3);
 		cout<<"suma= "<<suma<<"\n";
-		sleep(1);
+		sleep(3);
 		system("clear");
 	}
 	cout<<"Precione cualquier tecla para realizar otro repaso o digite 0 para salir de la aplicacion: ";
